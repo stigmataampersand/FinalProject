@@ -189,5 +189,11 @@ Clarence’s Stuff
 
 Ze MadLib
 
-A gigantic contest in which you already may be a ___(noun,singular). Anyone, and we mean anyone, can enter this ___(adjective) contest. Just follow these ___(adjective) rules. Write down in ___(number) words or less why you think ___(your Mother’s name) should be elected ___(noun) Of The Year. Remember he/she does not know that you think so ___(adverb) of her. First prize will be a deluxe, three-speed ___(piece of technology) plus a year’s supply of ___(food item). Second prize is a twenty one foot ___(noun). Third prize is a full-color ___(noun) plus a set of ___(animal,plural). Each entry must be accompanied by a stamped, self-addressed ___(extraterrestrial being). The decision will be final and in the event of a tie, duplicate ___(noun,plural) will be awarded.
+A gigantic contest in which you already may be a ___(noun,singular). Anyone, and we mean anyone, can enter this ___(adjective) 
+contest. Just follow these ___(adjective) rules. Write down in ___(number) words or less why you think ___(your Mother’s name) 
+should be elected ___(noun) Of The Year. Remember he/she does not know that you think so ___(adverb) of her. First prize will be
+a deluxe, three-speed ___(piece of technology) plus a year’s supply of ___(food item). Second prize is a twenty one 
+foot ___(noun). Third prize is a full-color ___(noun) plus a set of ___(animal,plural). Each entry must be accompanied by a 
+stamped, self-addressed ___(extraterrestrial being). The decision will be final and in the event of a tie, 
+duplicate ___(noun,plural) will be awarded.
 
